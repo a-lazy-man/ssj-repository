@@ -1,6 +1,7 @@
 package com.ajian.generic;
 
 public class User<T,K> {
+    String a = "团队内协作之其它人克隆代码之后，提交修改到远程库"
     private T name;
     private K age;
 
