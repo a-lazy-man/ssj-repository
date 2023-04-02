@@ -2,6 +2,7 @@ package com.ajian.generic;
 
 public class User<T,K> {
     String a = "团队内协作之其它人克隆代码之后，提交修改到远程库"
+    String b = "你们这团队写的damo性能太低了，有很对地方需要修改"
     private T name;
     private K age;
 
